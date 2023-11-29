@@ -1,0 +1,11 @@
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\bin\Debug\Library.exe.config
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\bin\Debug\Library.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\bin\Debug\Library.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.Form1.resources
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.Properties.Resources.resources
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.exe
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.pdb
+D:\University\3year\DevelopmentOnWindows\Overview\Project\Library\obj\Debug\Library.Dashboard.resources
